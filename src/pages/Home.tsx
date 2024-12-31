@@ -1,5 +1,3 @@
-import Present from '@assets/images/present.png';
-
 const Home = () => (
   <div className="p-8">
     <p className="text-4xl leading-relaxed mb-12">
