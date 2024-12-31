@@ -1,26 +1,26 @@
 [
   {
-    "src": "/src/assets/images/fotografia-reconstruida/atenas.jpg",
+    "src": "@/assets/images/fotografia-reconstruida/atenas.jpg",
     "title": "Atenas"
   },
   {
-    "src": "/src/assets/images/fotografia-reconstruida/fotografia-futbol.jpg",
+    "src": "@/assets/images/fotografia-reconstruida/fotografia-futbol.jpg",
     "title": "Fotografia Futbol"
   },
   {
-    "src": "/src/assets/images/fotografia-reconstruida/fotografia-la-tana.jpg",
+    "src": "@/assets/images/fotografia-reconstruida/fotografia-la-tana.jpg",
     "title": "Fotografia La Tana"
   },
   {
-    "src": "/src/assets/images/fotografia-reconstruida/futbol.jpg",
+    "src": "@/assets/images/fotografia-reconstruida/futbol.jpg",
     "title": "Futbol"
   },
   {
-    "src": "/src/assets/images/fotografia-reconstruida/la-tana.jpg",
+    "src": "@/assets/images/fotografia-reconstruida/la-tana.jpg",
     "title": "La Tana"
   },
   {
-    "src": "/src/assets/images/fotografia-reconstruida/señora.jpg",
+    "src": "@/assets/images/fotografia-reconstruida/señora.jpg",
     "title": "SeñOra"
   }
 ]

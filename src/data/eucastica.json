@@ -1,38 +1,38 @@
 [
   {
-    "src": "/src/assets/images/eucastica/el-caminante.jpg",
+    "src": "@/assets/images/eucastica/el-caminante.jpg",
     "title": "El Caminante"
   },
   {
-    "src": "/src/assets/images/eucastica/encaustica.jpg",
+    "src": "@/assets/images/eucastica/encaustica.jpg",
     "title": "Encaustica"
   },
   {
-    "src": "/src/assets/images/eucastica/encaustica2.jpg",
+    "src": "@/assets/images/eucastica/encaustica2.jpg",
     "title": "Encaustica2"
   },
   {
-    "src": "/src/assets/images/eucastica/encaustica3.jpg",
+    "src": "@/assets/images/eucastica/encaustica3.jpg",
     "title": "Encaustica3"
   },
   {
-    "src": "/src/assets/images/eucastica/encaustica4.jpg",
+    "src": "@/assets/images/eucastica/encaustica4.jpg",
     "title": "Encaustica4"
   },
   {
-    "src": "/src/assets/images/eucastica/interpretando-a-corot.jpg",
+    "src": "@/assets/images/eucastica/interpretando-a-corot.jpg",
     "title": "Interpretando A Corot"
   },
   {
-    "src": "/src/assets/images/eucastica/los-vigilantes-de-chan-chan.jpg",
+    "src": "@/assets/images/eucastica/los-vigilantes-de-chan-chan.jpg",
     "title": "Los Vigilantes De Chan Chan"
   },
   {
-    "src": "/src/assets/images/eucastica/los-vigilantes-de-chan-chan2.jpg",
+    "src": "@/assets/images/eucastica/los-vigilantes-de-chan-chan2.jpg",
     "title": "Los Vigilantes De Chan Chan2"
   },
   {
-    "src": "/src/assets/images/eucastica/paisaje-de-invierno.jpg",
+    "src": "@/assets/images/eucastica/paisaje-de-invierno.jpg",
     "title": "Paisaje De Invierno"
   }
 ]

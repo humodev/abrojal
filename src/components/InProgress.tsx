@@ -5,7 +5,7 @@ const InProgress: React.FC = () => {
     <div className="flex flex-col items-center justify-center h-screen">
       <div className="text-center text-4xl font-bold text-gray-700 break-words">
         SITIO EN
-        <img src="/src/assets/images/progreso.png" alt="En progreso" className="mt-4" />
+        <img src="/images/progreso.png" alt="En progreso" className="mt-4" />
       </div>
     </div>
   );
