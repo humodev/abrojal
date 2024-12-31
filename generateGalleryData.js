@@ -15,7 +15,7 @@ galleryTypes.forEach((type) => {
     title = title.replace(/\b\w/g, (char) => char.toUpperCase());
 
     return {
-      src: `/src/assets/images/${type}/${file}`,
+      src: `/images/${type}/${file}`,
       title: title,
     };
   });
