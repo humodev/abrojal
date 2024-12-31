@@ -1,0 +1,22 @@
+[
+  {
+    "src": "/src/assets/images/arte-colorido/abstracto.jpg",
+    "title": "Abstracto"
+  },
+  {
+    "src": "/src/assets/images/arte-colorido/cabezas.jpg",
+    "title": "Cabezas"
+  },
+  {
+    "src": "/src/assets/images/arte-colorido/gato-florado.jpg",
+    "title": "Gato Florado"
+  },
+  {
+    "src": "/src/assets/images/arte-colorido/tormentoso.jpg",
+    "title": "Tormentoso"
+  },
+  {
+    "src": "/src/assets/images/arte-colorido/una-copa-en-el-infierno.jpg",
+    "title": "Una Copa En El Infierno"
+  }
+]
